@@ -24,7 +24,7 @@ class show{
 
 int main()
 {
-    show<int,double> obj1(123 , 344.23, 'detddfredf');
+    show<int,double> obj1(123 , 344.23, 'd');
     obj1.display();
     return 0;
 }
